@@ -9,7 +9,7 @@ h1{
     font-size: 36px;
 }
 h2{
-    font-family: 'IM Fell English SC', serif;
+    font-family: 'IM Fell DW Pica', serif;
     text-align: center;
     font-size: 30px;
 }
@@ -22,18 +22,18 @@ h3{
     font-family: 'Pangolin', cursive;
 }
 .pizza{
-    font-family: 'IM Fell English SC', serif;
+    font-family: 'IM Fell DW Pica', serif;
     font-size: 20px;
 }
 .pizzaName{
-    font-family: 'IM Fell English SC', serif;
+    font-family: 'IM Fell DW Pica', serif;
     font-size: 24px;
 }
 .description{
-    font-family: 'IM Fell English SC', serif;
+    font-family: 'IM Fell DW Pica', serif;
 }
 .price{
-    font-family: 'IM Fell English SC', serif;
+    font-family: 'IM Fell DW Pica', serif;
 }
 .guide{
     list-style-type: none;
